@@ -6,7 +6,7 @@ A simple application to allow users to search for a city and to  show tweets of 
 ## Technologies
 
 --Languages:PHP,Javascript
---Framework:Laravel,Twitter Bootstrap
+--Framework:Laravel(5.2),Twitter Bootstrap
 
 ##Apis Used:
 
