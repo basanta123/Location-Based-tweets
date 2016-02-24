@@ -17,6 +17,9 @@ Google map api,Google geocoding api,Twitter api
 --Twitter api constants set in .env file at the root
 --Radius of the twitter search and limit of the tweets set on ApiController.php file
 
+##Working Demo:
+http://maptweets-apilaravel.rhcloud.com/
+
 
 
 
